@@ -1,4 +1,4 @@
-# ML-Specialization
+# What does this repo include?
 
 Implementation (from scratch) of:
 1. Multiple Linear Regression
